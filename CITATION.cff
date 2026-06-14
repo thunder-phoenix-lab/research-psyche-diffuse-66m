@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this code or the released weights, please cite:"
+title: "Small-Scale Text Diffusion for a Psychology Assistant: A Discrete-Diffusion Pipeline, a Blind-Annotation Retraction, and an Honest Data-Bound Scaling Null"
+authors:
+  - family-names: Kim
+    given-names: Denis
+year: 2026
+type: article
+notes: "Working preprint; arXiv submission pending."
