@@ -52,4 +52,4 @@ Corpora are not redistributed: the noisy mix is ~69% Pile-derived and the SFT mi
 
 ## License & contact
 
-Code, eval artifacts, paper: Apache-2.0. Not a medical device; outputs may be wrong; not for crisis use. Crisis support: 988 (US), 112/local equivalents. Contact: kdleonidovich04@gmail.com.
+Code and eval artifacts: Apache-2.0. Paper text and figures (`paper/`): CC-BY-4.0. Not a medical device; outputs may be wrong; not for crisis use. Crisis support: 988 (US), 112/local equivalents. Contact: kdleonidovich04@gmail.com.

@@ -19,7 +19,7 @@ tags:
 
 ## ⚠️ Intended use & safety
 
-Research artifact for studying small-scale text diffusion. **Not a therapist, not a medical device, not for crisis use.** Outputs are frequently vague, repetitive, and can be factually wrong (paper §4–8: blind homonym-drift floor 25–32%). For crisis support call 988 (US) or local equivalents. No real conversations or PII in training data.
+Research artifact for studying small-scale text diffusion. **Not a therapist, not a medical device, not for crisis use.** Outputs are frequently vague, repetitive, and can be factually wrong (paper §9: blind homonym-drift floor 25–32%). For crisis support call 988 (US) or local equivalents. No real conversations or PII in training data.
 
 ## Files
 
@@ -40,7 +40,7 @@ python scripts/sample_mdlm_v2.py --checkpoint model_66m_clean_sft.pt \
 # 120m: add MDLM_HIDDEN=640 MDLM_LAYERS=15 MDLM_HEADS=10 MDLM_MLP_INTER=1664
 ```
 
-Use confidence-ordered unmasking (v2 sampler). Random-order unmasking re-introduces repetition collapse (paper §4).
+Use confidence-ordered unmasking (v2 sampler). Random-order unmasking re-introduces repetition collapse (paper §5).
 
 ## Training
 

@@ -6,4 +6,11 @@ authors:
     given-names: Denis
 year: 2026
 type: article
-notes: "Working preprint; arXiv submission pending."
+version: "1.0"
+date-released: 2026-06-15
+repository-code: "https://github.com/thunder-phoenix-lab/research-psyche-diffuse-66m"
+url: "https://huggingface.co/tp-di/psyche-diffuse-66m"
+notes: "Working preprint, tagged v1.0; arXiv submission pending (eprint id to be added on acceptance). Zenodo DOI to be minted from the v1.0 release."
+# identifiers:                 # uncomment once Zenodo archives the v1.0 tag
+#   - type: doi
+#     value: 10.5281/zenodo.XXXXXXX
