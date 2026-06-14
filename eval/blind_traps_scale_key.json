@@ -1,0 +1,282 @@
+{
+"S000": {
+"corpus": "120m",
+"prompt": "user: What is a defense mechanism? assistant:",
+"seed": 1
+},
+"S001": {
+"corpus": "66m",
+"prompt": "user: Explain cognitive load in learning. assistant:",
+"seed": 1
+},
+"S002": {
+"corpus": "120m",
+"prompt": "user: Explain Vygotsky's zone of proximal development. assistant:",
+"seed": 1
+},
+"S003": {
+"corpus": "66m",
+"prompt": "user: What does regression mean in psychoanalysis? assistant:",
+"seed": 1
+},
+"S004": {
+"corpus": "66m",
+"prompt": "user: What is the drive theory of motivation? assistant:",
+"seed": 1
+},
+"S005": {
+"corpus": "120m",
+"prompt": "user: What is attachment and bonding in early childhood? assistant:",
+"seed": 1
+},
+"S006": {
+"corpus": "120m",
+"prompt": "user: Explain transference in therapy. assistant:",
+"seed": 1
+},
+"S007": {
+"corpus": "66m",
+"prompt": "user: What is a defense mechanism? assistant:",
+"seed": 1
+},
+"S008": {
+"corpus": "66m",
+"prompt": "user: Explain arousal in emotion. assistant:",
+"seed": 0
+},
+"S009": {
+"corpus": "120m",
+"prompt": "user: Explain cognitive load in learning. assistant:",
+"seed": 0
+},
+"S010": {
+"corpus": "66m",
+"prompt": "user: Explain fixation in Freudian theory. assistant:",
+"seed": 1
+},
+"S011": {
+"corpus": "120m",
+"prompt": "user: Explain arousal in emotion. assistant:",
+"seed": 0
+},
+"S012": {
+"corpus": "120m",
+"prompt": "user: Explain fixation in Freudian theory. assistant:",
+"seed": 1
+},
+"S013": {
+"corpus": "66m",
+"prompt": "user: What is psychological projection? assistant:",
+"seed": 1
+},
+"S014": {
+"corpus": "66m",
+"prompt": "user: What does regression mean in psychoanalysis? assistant:",
+"seed": 0
+},
+"S015": {
+"corpus": "120m",
+"prompt": "user: What is a defense mechanism? assistant:",
+"seed": 0
+},
+"S016": {
+"corpus": "120m",
+"prompt": "user: How does reinforcement shape behavior? assistant:",
+"seed": 1
+},
+"S017": {
+"corpus": "120m",
+"prompt": "user: What does regression mean in psychoanalysis? assistant:",
+"seed": 1
+},
+"S018": {
+"corpus": "66m",
+"prompt": "user: What is attachment and bonding in early childhood? assistant:",
+"seed": 0
+},
+"S019": {
+"corpus": "66m",
+"prompt": "user: Explain Vygotsky's zone of proximal development. assistant:",
+"seed": 1
+},
+"S020": {
+"corpus": "120m",
+"prompt": "user: What is attachment and bonding in early childhood? assistant:",
+"seed": 0
+},
+"S021": {
+"corpus": "66m",
+"prompt": "user: What does reflection mean in counselling? assistant:",
+"seed": 0
+},
+"S022": {
+"corpus": "120m",
+"prompt": "user: What does regression mean in psychoanalysis? assistant:",
+"seed": 0
+},
+"S023": {
+"corpus": "120m",
+"prompt": "user: What does reflection mean in counselling? assistant:",
+"seed": 1
+},
+"S024": {
+"corpus": "120m",
+"prompt": "user: Explain arousal in emotion. assistant:",
+"seed": 1
+},
+"S025": {
+"corpus": "120m",
+"prompt": "user: What is classical conditioning? assistant:",
+"seed": 1
+},
+"S026": {
+"corpus": "120m",
+"prompt": "user: How does reinforcement shape behavior? assistant:",
+"seed": 0
+},
+"S027": {
+"corpus": "120m",
+"prompt": "user: Explain transference in therapy. assistant:",
+"seed": 0
+},
+"S028": {
+"corpus": "66m",
+"prompt": "user: Why do experiments use a control group? assistant:",
+"seed": 0
+},
+"S029": {
+"corpus": "120m",
+"prompt": "user: What is classical conditioning? assistant:",
+"seed": 0
+},
+"S030": {
+"corpus": "120m",
+"prompt": "user: What is the drive theory of motivation? assistant:",
+"seed": 1
+},
+"S031": {
+"corpus": "66m",
+"prompt": "user: What is psychological projection? assistant:",
+"seed": 0
+},
+"S032": {
+"corpus": "66m",
+"prompt": "user: What is the drive theory of motivation? assistant:",
+"seed": 0
+},
+"S033": {
+"corpus": "66m",
+"prompt": "user: Explain transference in therapy. assistant:",
+"seed": 0
+},
+"S034": {
+"corpus": "66m",
+"prompt": "user: What is a defense mechanism? assistant:",
+"seed": 0
+},
+"S035": {
+"corpus": "120m",
+"prompt": "user: Explain fixation in Freudian theory. assistant:",
+"seed": 0
+},
+"S036": {
+"corpus": "66m",
+"prompt": "user: What does reflection mean in counselling? assistant:",
+"seed": 1
+},
+"S037": {
+"corpus": "120m",
+"prompt": "user: Explain cognitive load in learning. assistant:",
+"seed": 1
+},
+"S038": {
+"corpus": "120m",
+"prompt": "user: Explain Vygotsky's zone of proximal development. assistant:",
+"seed": 0
+},
+"S039": {
+"corpus": "120m",
+"prompt": "user: What is psychological projection? assistant:",
+"seed": 1
+},
+"S040": {
+"corpus": "66m",
+"prompt": "user: Explain Vygotsky's zone of proximal development. assistant:",
+"seed": 0
+},
+"S041": {
+"corpus": "66m",
+"prompt": "user: How does reinforcement shape behavior? assistant:",
+"seed": 1
+},
+"S042": {
+"corpus": "66m",
+"prompt": "user: What is attachment and bonding in early childhood? assistant:",
+"seed": 1
+},
+"S043": {
+"corpus": "66m",
+"prompt": "user: Explain fixation in Freudian theory. assistant:",
+"seed": 0
+},
+"S044": {
+"corpus": "66m",
+"prompt": "user: How does reinforcement shape behavior? assistant:",
+"seed": 0
+},
+"S045": {
+"corpus": "120m",
+"prompt": "user: What does reflection mean in counselling? assistant:",
+"seed": 0
+},
+"S046": {
+"corpus": "66m",
+"prompt": "user: Why do experiments use a control group? assistant:",
+"seed": 1
+},
+"S047": {
+"corpus": "66m",
+"prompt": "user: What is classical conditioning? assistant:",
+"seed": 1
+},
+"S048": {
+"corpus": "66m",
+"prompt": "user: What is classical conditioning? assistant:",
+"seed": 0
+},
+"S049": {
+"corpus": "120m",
+"prompt": "user: What is psychological projection? assistant:",
+"seed": 0
+},
+"S050": {
+"corpus": "120m",
+"prompt": "user: Why do experiments use a control group? assistant:",
+"seed": 0
+},
+"S051": {
+"corpus": "66m",
+"prompt": "user: Explain transference in therapy. assistant:",
+"seed": 1
+},
+"S052": {
+"corpus": "66m",
+"prompt": "user: Explain arousal in emotion. assistant:",
+"seed": 1
+},
+"S053": {
+"corpus": "66m",
+"prompt": "user: Explain cognitive load in learning. assistant:",
+"seed": 0
+},
+"S054": {
+"corpus": "120m",
+"prompt": "user: What is the drive theory of motivation? assistant:",
+"seed": 0
+},
+"S055": {
+"corpus": "120m",
+"prompt": "user: Why do experiments use a control group? assistant:",
+"seed": 1
+}
+}

@@ -1,0 +1,14 @@
+user: Explain Vygotsky's zone of proximal development. assistant:
+user: What is attachment and bonding in early childhood? assistant:
+user: Explain cognitive load in learning. assistant:
+user: Why do experiments use a control group? assistant:
+user: How does reinforcement shape behavior? assistant:
+user: What is classical conditioning? assistant:
+user: Explain transference in therapy. assistant:
+user: What is psychological projection? assistant:
+user: What does regression mean in psychoanalysis? assistant:
+user: Explain fixation in Freudian theory. assistant:
+user: What is the drive theory of motivation? assistant:
+user: What is a defense mechanism? assistant:
+user: Explain arousal in emotion. assistant:
+user: What does reflection mean in counselling? assistant:

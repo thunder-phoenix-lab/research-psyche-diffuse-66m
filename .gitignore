@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pt
+*.bin
+*.onnx
+*.apk
+.venv/
+.gradle/
+build/
+local.properties
+.idea/
+.kotlin/

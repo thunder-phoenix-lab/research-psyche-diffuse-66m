@@ -1,0 +1,282 @@
+{
+"S000": {
+"corpus": "clean",
+"prompt": "user: What is psychological projection? assistant:",
+"seed": 1
+},
+"S001": {
+"corpus": "noisy",
+"prompt": "user: What is a defense mechanism? assistant:",
+"seed": 1
+},
+"S002": {
+"corpus": "clean",
+"prompt": "user: What does regression mean in psychoanalysis? assistant:",
+"seed": 1
+},
+"S003": {
+"corpus": "noisy",
+"prompt": "user: What is the drive theory of motivation? assistant:",
+"seed": 0
+},
+"S004": {
+"corpus": "noisy",
+"prompt": "user: Explain transference in therapy. assistant:",
+"seed": 0
+},
+"S005": {
+"corpus": "noisy",
+"prompt": "user: What does reflection mean in counselling? assistant:",
+"seed": 0
+},
+"S006": {
+"corpus": "clean",
+"prompt": "user: Why do experiments use a control group? assistant:",
+"seed": 0
+},
+"S007": {
+"corpus": "clean",
+"prompt": "user: Explain cognitive load in learning. assistant:",
+"seed": 0
+},
+"S008": {
+"corpus": "noisy",
+"prompt": "user: Explain arousal in emotion. assistant:",
+"seed": 1
+},
+"S009": {
+"corpus": "noisy",
+"prompt": "user: What is classical conditioning? assistant:",
+"seed": 0
+},
+"S010": {
+"corpus": "noisy",
+"prompt": "user: What is attachment and bonding in early childhood? assistant:",
+"seed": 1
+},
+"S011": {
+"corpus": "noisy",
+"prompt": "user: Explain cognitive load in learning. assistant:",
+"seed": 0
+},
+"S012": {
+"corpus": "clean",
+"prompt": "user: Why do experiments use a control group? assistant:",
+"seed": 1
+},
+"S013": {
+"corpus": "noisy",
+"prompt": "user: Explain transference in therapy. assistant:",
+"seed": 1
+},
+"S014": {
+"corpus": "clean",
+"prompt": "user: What is a defense mechanism? assistant:",
+"seed": 0
+},
+"S015": {
+"corpus": "clean",
+"prompt": "user: How does reinforcement shape behavior? assistant:",
+"seed": 0
+},
+"S016": {
+"corpus": "clean",
+"prompt": "user: What is classical conditioning? assistant:",
+"seed": 1
+},
+"S017": {
+"corpus": "noisy",
+"prompt": "user: How does reinforcement shape behavior? assistant:",
+"seed": 0
+},
+"S018": {
+"corpus": "clean",
+"prompt": "user: Explain transference in therapy. assistant:",
+"seed": 0
+},
+"S019": {
+"corpus": "noisy",
+"prompt": "user: Explain fixation in Freudian theory. assistant:",
+"seed": 0
+},
+"S020": {
+"corpus": "noisy",
+"prompt": "user: What does regression mean in psychoanalysis? assistant:",
+"seed": 0
+},
+"S021": {
+"corpus": "noisy",
+"prompt": "user: Explain arousal in emotion. assistant:",
+"seed": 0
+},
+"S022": {
+"corpus": "noisy",
+"prompt": "user: What does reflection mean in counselling? assistant:",
+"seed": 1
+},
+"S023": {
+"corpus": "noisy",
+"prompt": "user: Explain fixation in Freudian theory. assistant:",
+"seed": 1
+},
+"S024": {
+"corpus": "clean",
+"prompt": "user: What is classical conditioning? assistant:",
+"seed": 0
+},
+"S025": {
+"corpus": "noisy",
+"prompt": "user: What is psychological projection? assistant:",
+"seed": 0
+},
+"S026": {
+"corpus": "noisy",
+"prompt": "user: What does regression mean in psychoanalysis? assistant:",
+"seed": 1
+},
+"S027": {
+"corpus": "noisy",
+"prompt": "user: What is the drive theory of motivation? assistant:",
+"seed": 1
+},
+"S028": {
+"corpus": "clean",
+"prompt": "user: What does reflection mean in counselling? assistant:",
+"seed": 1
+},
+"S029": {
+"corpus": "clean",
+"prompt": "user: Explain cognitive load in learning. assistant:",
+"seed": 1
+},
+"S030": {
+"corpus": "clean",
+"prompt": "user: What does reflection mean in counselling? assistant:",
+"seed": 0
+},
+"S031": {
+"corpus": "clean",
+"prompt": "user: What is attachment and bonding in early childhood? assistant:",
+"seed": 1
+},
+"S032": {
+"corpus": "clean",
+"prompt": "user: Explain arousal in emotion. assistant:",
+"seed": 0
+},
+"S033": {
+"corpus": "clean",
+"prompt": "user: Explain arousal in emotion. assistant:",
+"seed": 1
+},
+"S034": {
+"corpus": "noisy",
+"prompt": "user: What is classical conditioning? assistant:",
+"seed": 1
+},
+"S035": {
+"corpus": "clean",
+"prompt": "user: Explain fixation in Freudian theory. assistant:",
+"seed": 0
+},
+"S036": {
+"corpus": "noisy",
+"prompt": "user: How does reinforcement shape behavior? assistant:",
+"seed": 1
+},
+"S037": {
+"corpus": "clean",
+"prompt": "user: Explain Vygotsky's zone of proximal development. assistant:",
+"seed": 1
+},
+"S038": {
+"corpus": "clean",
+"prompt": "user: What is attachment and bonding in early childhood? assistant:",
+"seed": 0
+},
+"S039": {
+"corpus": "clean",
+"prompt": "user: Explain fixation in Freudian theory. assistant:",
+"seed": 1
+},
+"S040": {
+"corpus": "clean",
+"prompt": "user: Explain transference in therapy. assistant:",
+"seed": 1
+},
+"S041": {
+"corpus": "clean",
+"prompt": "user: What is the drive theory of motivation? assistant:",
+"seed": 0
+},
+"S042": {
+"corpus": "noisy",
+"prompt": "user: Explain Vygotsky's zone of proximal development. assistant:",
+"seed": 1
+},
+"S043": {
+"corpus": "noisy",
+"prompt": "user: What is psychological projection? assistant:",
+"seed": 1
+},
+"S044": {
+"corpus": "noisy",
+"prompt": "user: What is a defense mechanism? assistant:",
+"seed": 0
+},
+"S045": {
+"corpus": "noisy",
+"prompt": "user: Why do experiments use a control group? assistant:",
+"seed": 0
+},
+"S046": {
+"corpus": "clean",
+"prompt": "user: What is a defense mechanism? assistant:",
+"seed": 1
+},
+"S047": {
+"corpus": "clean",
+"prompt": "user: What does regression mean in psychoanalysis? assistant:",
+"seed": 0
+},
+"S048": {
+"corpus": "clean",
+"prompt": "user: What is psychological projection? assistant:",
+"seed": 0
+},
+"S049": {
+"corpus": "noisy",
+"prompt": "user: What is attachment and bonding in early childhood? assistant:",
+"seed": 0
+},
+"S050": {
+"corpus": "clean",
+"prompt": "user: How does reinforcement shape behavior? assistant:",
+"seed": 1
+},
+"S051": {
+"corpus": "noisy",
+"prompt": "user: Explain cognitive load in learning. assistant:",
+"seed": 1
+},
+"S052": {
+"corpus": "noisy",
+"prompt": "user: Explain Vygotsky's zone of proximal development. assistant:",
+"seed": 0
+},
+"S053": {
+"corpus": "noisy",
+"prompt": "user: Why do experiments use a control group? assistant:",
+"seed": 1
+},
+"S054": {
+"corpus": "clean",
+"prompt": "user: Explain Vygotsky's zone of proximal development. assistant:",
+"seed": 0
+},
+"S055": {
+"corpus": "clean",
+"prompt": "user: What is the drive theory of motivation? assistant:",
+"seed": 1
+}
+}
