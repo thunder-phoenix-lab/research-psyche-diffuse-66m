@@ -22,7 +22,7 @@ A 66.8M-parameter masked-diffusion LM (MDLM) for English psychology / mental-hea
 ```
 scripts/   train_mdlm.py, train_mdlm_sft.py     pretrain / SFT (env-overridable arch)
            sample_mdlm.py, sample_mdlm_v2.py    v1 / v2 samplers (v2 = production)
-           train_tokenizer.py, build_*          tokenizer + corpus build recipe
+           build_clean_pretrain.py, build_*     corpus build recipe (tokenizer ships frozen: spm_en.model on HF)
            export_onnx.py, export_mobile.py     on-device export
 eval/      run_1000_eval.py, paired_sig.py      1000-prompt harness + paired significance
            score_blind_traps.py                 blind-trap stats (Wilson/Newcombe/Fisher/kappa)

@@ -114,7 +114,7 @@ def main() -> int:
     args = ap.parse_args()
     spm_path = TOKENIZER_DIR / "spm.model"
     if not spm_path.exists():
-        print(f"Tokenizer not found at {spm_path}; run train_tokenizer.py first")
+        print(f"Tokenizer not found at {spm_path}")
         return 1
     tok = spm.SentencePieceProcessor()
     tok.load(str(spm_path))
